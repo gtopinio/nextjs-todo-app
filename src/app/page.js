@@ -1,8 +1,9 @@
 export default function Home() {
   return (
     <main>
-      <div>
+      <div className="bg-gray-800 min-h-screen">
+        {/* Your content goes here */}
       </div>
     </main>
-  )
+  );
 }

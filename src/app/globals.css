@@ -16,8 +16,9 @@ body {
   background: #ffffff; /* Set a clean white background */
 }
 
-.homeTitle {
+.title {
   font-size: 4rem;
+  font-weight: bold;
   text-align: center;
   color: rgb(var(--foreground-rgb));
 }
